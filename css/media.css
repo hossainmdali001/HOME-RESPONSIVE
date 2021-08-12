@@ -1,0 +1,614 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+ /* header start  */
+ .menu ul li a {
+	padding: 10px 0px !important;
+	text-align: right;
+    font-size: 13px;
+}
+header {
+    /* position: fixed; */
+    padding: 5px 0px;
+
+}
+ /* header end  */
+ /* slider start  */
+ .slider_overlay {
+    padding-top: 30px;
+    padding-bottom: 6px;
+}
+.csrl_text h1{
+    font-size: 20px !important;
+}
+.btn {
+    margin-top: 12px;
+}
+.csrl_text p {
+    font-size: 12px !important;
+    padding-top: 12px;
+}
+ .slider{
+	padding-bottom: 70px;
+}
+.csrl_text{
+    padding-top: 10px;
+}
+.c_indi [data-bs-target] {
+   width: 13px;
+   height: 13px;
+   border-radius: 50%;
+}
+.c_indi {
+   bottom: -60px;
+}
+.icon li i {
+   font-size: 26px;
+}
+.icon li {
+   padding-right: 15px;
+}
+.csrl_text{
+	margin-top: 20px;
+}
+.csrl_text h1 {
+    font-size: 29px;
+}
+.btnn button {
+    background: #753d9d;
+    border: none;
+}
+
+.btn button {
+    width: 160px;
+    font-size: 11px;
+}
+.csrl_text h3{
+	font-size: 17px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.csrl_text p{
+	font-size: 14px;
+}
+.icon {
+    padding-top: 23px;
+}
+/* about part  */
+.about {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.about_text{
+    text-align: center;
+}
+.about_text h1{
+    font-size: 23px;
+}
+.about_text h1::after{
+    height: 45px;
+    left: 25px;
+    top: 5px;
+}
+.about_text p {
+    font-size: 14px;
+    padding-top: 13px;
+    padding-bottom: 4px;
+}
+.about_text button {
+    width: 157px;
+    padding: 6px;
+    font-size: 13px;
+}
+/* width part  */
+.width {
+    padding-bottom: 7px;
+}
+/* icon part  */
+.icon {
+    padding-top: 6px;
+}
+.crt_text h3 {
+    font-size: 19px;
+    margin-top: 4px;
+}
+.abou_text p {
+    font-size: 13px;
+    padding-top: 10px;
+}
+/* product part start  */
+.product_overlay {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.pro_text h1 {
+    font-size: 24px;
+}
+.btnnn button {
+    width: 175px;
+    padding: 6px;
+    font-size: 16px;
+}
+/* service part  */
+.service {
+    padding-top: 52px;
+    padding-bottom: 40px;
+}
+.s_text{
+    text-align: left;
+}
+.s_text h1 {
+    font-size: 24px;
+}
+.imggg{
+    margin-top: 30px;
+}
+
+/* syst part  */
+.system {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.syst_text {
+    margin-top: 19px;
+}
+.syst_text h1 {
+    font-size: 26px;
+}
+.syst_text p{
+    font-size: 14px;
+    padding-top: 10px;
+}
+/* contact part  */
+.contact {
+    padding-top: 31px;
+    padding-bottom: 25px;
+}
+.cnt_text h1 {
+    font-size: 19px;
+    line-height: 26px;
+}
+.cnt_text h1{
+    text-align: center;
+}
+.syst_btn{
+    text-align: center;
+    margin-top: 20px;
+}
+.syst_btn button {
+    width: 158px;
+    padding: 5px;
+    font-size: 15px;
+}
+/* portfolio part  */
+.portfolio {
+    padding-top: 38px;
+    padding-bottom: 20px;
+}
+.s_text h1 {
+    font-size: 18px;
+}
+.s_text h1::after{
+    width: 2px;
+    height: 17px;
+}
+/* blog part  */
+.blog {
+    padding-top: 44px;
+    padding-bottom: 30px;
+}
+.blog_text{
+    margin-top: -30px;
+    text-align: center;
+}
+.blogg_text{
+    margin-top: -30px;
+    text-align: center;
+}
+.bloggg_text{
+    margin-top: -30px;
+    text-align: center;
+}
+.blog_text h3 {
+    font-size: 17px;
+    line-height: 26px;
+}
+/* footer part  */
+.footer {
+    padding-top: 40px;
+    padding-bottom: 24px;
+}
+.foot_text p {
+    font-size: 13px;
+}
+.logo{
+    text-align: center;
+}
+.foot_text{
+    text-align: center;
+}
+.fot ul li a {
+    font-size: 9px;
+}
+
+}
+
+
+/* Small devices (landscape phones, 576px and up)  */
+@media (min-width: 576px) and (max-width: 767.98px) {
+ /* header start  */
+ .menu ul li a {
+	padding: 10px 0px !important;
+	text-align: right;
+    font-size: 20px;
+}
+ /* header end  */
+ /* slider start  */
+ .slider{
+	 padding-bottom: 70px;
+ }
+.csrl_text{
+	margin-top: 10px;
+}
+.c_indi [data-bs-target] {
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+}
+.c_indi {
+    bottom: -60px;
+}
+.icon li i {
+    font-size: 26px;
+}
+.icon li {
+    padding-right: 15px;
+}
+.csrl_text h3 {
+    padding-top: 13px;
+    padding-bottom: 14px;
+}
+.icon {
+    padding-top: 26px;
+}
+/* slider part  */
+.slider_overlay {
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.csrl_text h1{
+    font-size: 35px;
+}
+.csrl_text p {
+    font-size: 15px;
+    padding-top: 15px;
+}
+.c_indi{
+    margin-bottom: 0px
+}
+/* about part  */
+.about {
+    padding-top: 55px;
+    padding-bottom: 42px;
+}
+.about_text h1 {
+    font-size: 30px;
+}
+.about_text p {
+    font-size: 14px;
+    padding-top: 16px;
+    padding-bottom: 10px;
+}
+.about_img{
+    margin-top: 30px;
+    margin-left: -9px;
+}
+/* icon part  */
+.icon {
+    padding-top: 12px;
+}
+.crt_text h3 {
+    margin-top: 1px;
+}
+.abou_text p {
+    margin-top: 10px;
+}
+/* width part  */
+.width {
+    padding-bottom: 10px;
+}
+/* product part  */
+.product_overlay {
+    padding-top: 41px;
+    padding-bottom: 30px;
+}
+.pro_text h1 {
+    font-size: 29px;
+}
+.btnnn button {
+    width: 170px;
+    font-size: 13px;
+}
+/* service part start */
+.s_text{
+    text-align: left;
+}
+.imggg {
+    margin-top: 58px;
+}
+.over_text h3 {
+    font-size: 13px;
+}
+/* syst part  */
+.system {
+    padding-top: 10px;
+}
+.syst_text h1 {
+    font-size: 17px;
+}
+.syst_text p {
+    font-size: 13px;
+    padding-top: 7px;
+}
+/* contact part  */
+.contact {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.cnt_text h1 {
+    font-size: 16px;
+}
+.syst_btn button {
+    width: 121px;
+    font-size: 10px;
+}
+/* porrtfoliio part  */
+.portfolio {
+    padding-top: 42px;
+    padding-bottom: 28px;
+}
+
+/* blog part  */
+.blog {
+    padding-top: 20px;
+    padding-bottom: 19px;
+}
+.blog_text {
+    padding-top: 19px;
+}
+.blog_text h3 {
+    font-size: 11px;
+}
+.blogg_text p {
+    font-size: 8px;
+}
+.bloggg_text p {
+    font-size: 7px;
+}
+.blogg_text {
+    padding-top: 18px;
+}
+.bloggg_text {
+    padding-top: 12px;
+}
+/* footer part  */
+.footer {
+    padding-top: 58px;
+    padding-bottom: 44px;
+}
+.foot_text p {
+    font-size: 11px;
+}
+.fot ul li a{
+    font-size: 6px;
+}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+ /* header start  */
+ .menu ul li a {
+	padding: 10px 0px !important;
+	text-align: right;
+}
+ /* header end  */
+ /* slider part  */
+ .slider_overlay {
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.c_indi{
+    margin-bottom: 55px;
+}
+ .csrl_text{
+    margin-top: 20px;
+}
+.csrl_text h1{
+	font-size: 30px;
+}
+.csrl_text h3{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.icon {
+    padding-top: 28px;
+}
+/* width part  */
+.width {
+    padding-bottom: 10px;
+}
+/* about part  */
+.about {
+    padding-top: 75px;
+    padding-bottom: 70px;
+}
+.about_text h1 {
+    font-size: 30px;
+}
+.about_text p {
+    font-size: 14px;
+    padding-top: 16px;
+    padding-bottom: 10px;
+}
+.about_img{
+    margin-top: 30px;
+    margin-left: -9px;
+}
+
+/* icon part  */
+.icon {
+    padding-top: 12px;
+}
+.crt_text h3 {
+    margin-top: 1px;
+}
+.abou_text p {
+    margin-top: 10px;
+}
+/* width part  */
+.width {
+    padding-bottom: 20px;
+}
+/* width part  */
+.width {
+    padding-bottom: 4px;
+}
+/* product part  */
+.product_overlay {
+    padding-top: 45px;
+    padding-bottom: 35px;
+}
+.pro_text h1 {
+    font-size: 30px;
+}
+.btnnn button {
+    width: 180px;
+    font-size: 15px;
+}
+/* service part  */
+.s_text{
+    text-align: left;
+}
+.s_text{
+    margin-right: 10px;
+}
+.imggg {
+    margin-top: 70px;
+}
+/* syst part  */
+.system {
+    padding-top: 10px;
+}
+.syst_text h1 {
+    font-size: 24px;
+}
+.syst_text p {
+    font-size: 15px;
+    padding-top: 10px;
+}
+.syst_text {
+    margin-top: 62px;
+}
+/* contact part  */
+.contact {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.cnt_text h1{
+    font-size: 20px;
+}
+.syst_btn button {
+    width: 176px;
+    font-size: 14px;
+}
+/* portfolio part */
+.portfolio {
+    padding-top: 45px;
+    padding-bottom: 35px;
+}
+/* blog part  */
+.blog {
+    padding-top: 20px;
+    padding-bottom: 19px;
+}
+.blog_text {
+    padding-top: 19px;
+}
+.blog_text h3 {
+    font-size: 14px;
+}
+.blogg_text p {
+    font-size: 11px;
+}
+.bloggg_text p {
+    font-size: 10px;
+}
+.blogg_text {
+    padding-top: 18px;
+}
+.bloggg_text {
+    padding-top: 12px;
+}
+/* footer part  */
+.footer {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.foot_text p {
+    font-size: 13px;
+}
+.fot ul li a {
+    font-size: 11px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+   /* product part  */
+   .product_overlay {
+    padding-top: 100px;
+    padding-bottom: 87px;
+}
+   .pro_text h1 {
+    font-size: 44px;
+}
+/* contact part  */
+.cnt_text h1 {
+    font-size: 20px;
+}
+/* blog part  */
+
+.blog_text h3 {
+    font-size: 15px;
+}
+.blogg_text p {
+    font-size: 13px;
+}
+.bloggg_text p {
+    font-size: 13px;
+  
+}
+}
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* slider part  */
+    .slider_overlay {
+        padding-top: 140px;
+        padding-bottom: 130px;
+    }
+    /* product part  */
+    .product_overlay {
+        padding-top: 115px;
+        padding-bottom: 100px;
+    }
+    /* about part  */
+    .about{
+        padding-top: 110px;
+        padding-bottom: 100px;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
